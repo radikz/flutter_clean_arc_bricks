@@ -1,0 +1,3 @@
+class WeatherRepositoryImpl implements WeatherRepository {
+  
+}
