@@ -1,3 +1,3 @@
-class WeatherRepositoryImpl implements WeatherRepository {
+void main(){
   
 }

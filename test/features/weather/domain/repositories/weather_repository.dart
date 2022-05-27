@@ -1,3 +1,3 @@
-abstract class WeatherRepository {
+void main(){
   
 }

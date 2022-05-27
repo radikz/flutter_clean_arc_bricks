@@ -1,3 +1,3 @@
-class Weather {
+void main(){
   
 }

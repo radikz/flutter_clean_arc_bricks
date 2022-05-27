@@ -1,3 +1,3 @@
-class WeatherModel {
+void main(){
   
 }

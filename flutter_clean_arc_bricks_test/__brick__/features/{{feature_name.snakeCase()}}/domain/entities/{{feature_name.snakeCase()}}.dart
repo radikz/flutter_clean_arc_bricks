@@ -1,3 +1,3 @@
-class {{feature_name.pascalCase()}} {
+void main(){
   
 }
